@@ -78,7 +78,7 @@ Top Agent: AgentGG
     - Avg Utility: 0.7574
     - Agreement Rate: 81.00%
 
-📈 Top 5 Agents by Average Utility:
+Top 5 Agents by Average Utility:
 Agent     Sessions  Avg_Utility  Agreements  Agreement Rate
 AgentGG        1000     0.757399         810           0.810
 KakeSoba       1000     0.743267         796           0.796
