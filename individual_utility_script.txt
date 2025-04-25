@@ -1,0 +1,29 @@
+🔍 Agent Performance Summary
+
+🏆 Top Agent: AgentGG with average utility 0.7574
+🔻 Lowest Agent: IBasic with average utility 0.3000
+
+📊 Full Rankings:
+
+ - AgentGG: 0.7574
+ - HardDealer: 0.7449
+ - SAGA: 0.7372
+ - KakeSoba: 0.7220
+ - SolverAgent: 0.7141
+ - winkyAgent: 0.7044
+ - MINF: 0.7038
+ - dandikAgent: 0.6943
+ - FSEGA2019: 0.6867
+ - AgentGP: 0.6826
+ - GaravelAgent: 0.6811
+ - Group1_BOA: 0.6787
+ - EAgent: 0.6723
+ - TheNewDeal: 0.6496
+ - Grand Total: 0.6335
+ - Gravity: 0.5882
+ - AgentLarry: 0.5874
+ - KAgent: 0.5746
+ - AgentPeraltaV2: 0.5460
+ - SACRA: 0.5013
+ - AuthenticAgent: 0.3762
+ - IBasic: 0.3000
